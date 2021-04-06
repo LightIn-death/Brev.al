@@ -57,48 +57,32 @@
 }
 
 
-.vibrant {
-  height: 60px;
-  width: 60px;
-  margin: 10px;
-  background-color: var(--primary);
-}
+.github {
 
-.vibrantLight {
-  height: 60px;
-  width: 60px;
-  margin: 10px;
-  background-color: var(--primary-light);
+  svg {
+    fill: var(--primary);
+  }
+
 }
 
 
-.vibrantDark {
-  height: 60px;
-  width: 60px;
-  margin: 10px;
-  background-color: var(--primary-dark);
+.linkedin {
+  svg {
+    fill: var(--primary);
+  }
 }
 
 
-.sec {
-  height: 60px;
-  width: 60px;
-  margin: 10px;
-  background-color: var(--secondary);
+.google {
+  svg {
+    fill: var(--primary);
+  }
+}
+
+.phone {
+  svg {
+    fill: var(--primary);
+  }
 }
 
 
-.secLight {
-  height: 60px;
-  width: 60px;
-  margin: 10px;
-  background-color: var(--secondary-light);
-}
-
-
-.secDark {
-  height: 60px;
-  width: 60px;
-  margin: 10px;
-  background-color: var(--secondary-dark);
-}

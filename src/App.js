@@ -7,7 +7,16 @@ import {createGlobalStyle} from 'styled-components';
 
 
 function App() {
-    const bibiliothecqueDImage = ['https://images.unsplash.com/photo-1495640452828-3df6795cf69b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    const bibiliothecqueDImage = [
+        '/img/bg/1.jpg',
+        '/img/bg/2.jpg',
+        '/img/bg/3.jpg',
+        '/img/bg/4.jpg',
+        '/img/bg/5.jpg',
+        '/img/bg/8.jpg',
+        '/img/bg/7.jpg',
+        '/img/bg/9.jpg',
+        '/img/bg/10.jpg',
 
     ]
 

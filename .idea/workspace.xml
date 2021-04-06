@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7c41d5-5353-44d7-98ff-c19749da9f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ressources/CV.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg/9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/chris-barbalis-doicC_ATzkQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/elise-st-clair-VHO2dTXrOZI-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/jenny-cvek-rm5ViUoXiBc-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/julia-solonina-Szm8lGJ9Nic-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/martin-widenka-BRXyrXCMuH4-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/matteo-paganelli-rRJ0aA6AIpQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/miltiadis-fragkidis-AVxMiTjVGZ4-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/pablo-pacheco-D3Mag4BKqns-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/pablo-pacheco-ad_7SoZrtnQ-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg/pop-zebra-xDxiO7sldis-unsplash.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/me/Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/me/Me.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/contact/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/contact/Contact.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/contact/Contact.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/skills/Skills.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +71,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Breval Nouveau\Sync\Projects\WebSite\portfolio\src\ressources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Breval Nouveau\Sync\Projects\WebSite\portfolio\public\img\bg" />
+      <recent name="C:\Users\Breval Nouveau\Sync\Projects\WebSite\portfolio\public\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +86,7 @@
       <updated>1616706975228</updated>
       <workItem from="1616706980537" duration="3128000" />
       <workItem from="1617047757496" duration="6384000" />
-      <workItem from="1617698472129" duration="1683000" />
+      <workItem from="1617698472129" duration="2581000" />
     </task>
     <servers />
   </component>
