@@ -8,6 +8,7 @@ import {createGlobalStyle} from 'styled-components';
 
 function App() {
     const bibiliothecqueDImage = [
+
         '/img/bg/1.jpg',
         '/img/bg/2.jpg',
         '/img/bg/3.jpg',
@@ -17,6 +18,8 @@ function App() {
         '/img/bg/7.jpg',
         '/img/bg/9.jpg',
         '/img/bg/10.jpg',
+        '/img/bg/11.jpg',
+        '/img/bg/12.jpg',
 
     ]
 

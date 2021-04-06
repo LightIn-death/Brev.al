@@ -25,14 +25,14 @@ function Welcome() {
                     </p>
 
 
-                    {/*<div className={css.colorBox}>*/}
-                    {/*    <div className={css.vibrant}>Vibrant</div>*/}
-                    {/*    <div className={css.vibrantDark}>Dark Vibrant</div>*/}
-                    {/*    <div className={css.vibrantLight}>Light Vibrant</div>*/}
-                    {/*    <div className={css.sec}>Muted</div>*/}
-                    {/*    <div className={css.secLight}>Light Muted</div>*/}
-                    {/*    <div className={css.secDark}>Dark Muted</div>*/}
-                    {/*</div>*/}
+                    <div className={css.colorBox}>
+                        <div className={css.vibrant}>Vibrant</div>
+                        <div className={css.vibrantDark}>Dark Vibrant</div>
+                        <div className={css.vibrantLight}>Light Vibrant</div>
+                        <div className={css.sec}>Muted</div>
+                        <div className={css.secLight}>Light Muted</div>
+                        <div className={css.secDark}>Dark Muted</div>
+                    </div>
                 </div>
             </div>
         </section>
