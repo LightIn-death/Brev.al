@@ -2,52 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e7c41d5-5353-44d7-98ff-c19749da9f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/moi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/contact/Contact.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/contact/Contact.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/contact/Contact.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/me/Me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/me/Me.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/me/Me.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/me/Me.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/navbar/Navbar.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/navbar/Navbar.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/page/Page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/page/Page.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/page/Page.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/page/Page.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/projects/Projects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/projects/Projects.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/projects/Projects.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/projects/Projects.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/skills/Skills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/skills/Skills.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/skills/Skills.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/skills/Skills.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ressources/image/Bitime.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ressources/image/breval_halo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ressources/image/bt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ressources/image/projects/aquatair/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ressources/image/stickman.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ressources/CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/ressources/image/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/me/Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/me/Me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +23,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qGXbfJWzcY8GC7hWECRShGaT3Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ressources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +46,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Breval Nouveau\Sync\Projects\WebSite\portfolio\src\ressources" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,7 +62,7 @@
       <updated>1616706975228</updated>
       <workItem from="1616706980537" duration="3128000" />
       <workItem from="1617047757496" duration="6384000" />
-      <workItem from="1617698472129" duration="210000" />
+      <workItem from="1617698472129" duration="1683000" />
     </task>
     <servers />
   </component>
@@ -108,5 +80,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

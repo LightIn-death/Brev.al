@@ -1,8 +1,19 @@
 import css from './Me.module.scss';
 import moi from "../../ressources/image/breval_halo.jpg";
+import React, { Component } from 'react';
+import PDF from '../../ressources/CV.pdf';
+
+
+
+
 
 
 function Me() {
+
+
+
+
+
     return (
 
         <section>
@@ -34,7 +45,7 @@ function Me() {
 
                     <img src={moi} alt="dessin du portrait de Bréval Le Floch" className={css.avatar}/>
 
-                    <button className={css.button}>
+                    <button className={css.button} onClick={()=>{window.open(PDF);}}>
                         Télécharger mon CV
                     </button>
 
