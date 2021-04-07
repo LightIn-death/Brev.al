@@ -16,7 +16,7 @@ function Navbar() {
             <div className={`${css.floatingBox9} ${css.fb}`}>.</div>
             </div>
 
-            <div className={css.nav}>
+            <ul className={css.nav}>
 
                 <li className={css.navElement}>
                     <div className={css.logo}>
@@ -43,7 +43,7 @@ function Navbar() {
                 </li>
 
 
-            </div>
+            </ul>
         </div>
     );
 }

@@ -1,12 +1,15 @@
-import React, {useCallback} from 'react'
+import React, {Suspense,useCallback} from 'react'
 import './Page.module.scss';
-import Welcome from "../welcome/Welcome";
-import Me from "../me/Me";
+import Loader from "react-loader-spinner";
+
 import css from "./Page.module.scss";
 import {useSpring} from 'react-spring'
-import Skills from "../skills/Skills";
-import Projects from "../projects/Projects";
-import Contact from "../contact/Contact";
+
+
+const Welcome = React.lazy(() => import("../welcome/Welcome"));
+const Me = React.lazy(() => import("../me/Me"));
+const Skills = React.lazy(() => import("../skills/Skills"));
+const Contact = React.lazy(() => import("../contact/Contact"));
 
 
 function Page() {
@@ -22,13 +25,23 @@ function Page() {
 
     return (
         <div className={css.page} onMouseMove={onMove}>
-            {/*<animated.div className={css.bitime} style={{backgroundImage: 'url(' + bt + ')', transform: interBT}}/>*/}
-            <Welcome/>
-            <Me/>
-            <Skills/>
-            {/*<Projects/>*/}
-            <Contact/>
+            <Suspense fallback={<Loader
+                className={css.loader}
+                type="Puff"
+                color="#00BFFF"
+                height={100}
+                width={100}
+                timeout={3000} //3 secs
+            />}>
+                {/*<animated.div className={css.bitime} style={{backgroundImage: 'url(' + bt + ')', transform: interBT}}/>*/}
+                <Welcome/>
+                <Me/>
+                <Skills/>
+                {/*<Projects/>*/}
+                <Contact/>
 
+                {/*<Suspense fallback={}></Suspense>*/}
+            </Suspense>
 
         </div>
     );

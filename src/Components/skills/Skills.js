@@ -34,7 +34,7 @@ function Skills() {
 
 
                             <div className={css.skillPart}>
-                                <h3 className={css.subtitle}>Compétences systeme et reseaux</h3>
+                                <h3 className={css.subtitle}>Compétences systèmes et réseaux </h3>
                                 <div className={css.skillSets}>
                                     <div className={css.skill}>Ansible</div>
                                     <div className={css.skill}>MariaDB</div>

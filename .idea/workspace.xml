@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="3e7c41d5-5353-44d7-98ff-c19749da9f65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.sync-conflict-20210406-095736-IL3YZFF.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/welcome/Welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/contact/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/me/Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/me/Me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/navbar/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/navbar/Navbar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/navbar/Navbar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/page/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/page/Page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/page/Page.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/page/Page.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/skills/Skills.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +70,7 @@
       <workItem from="1616706980537" duration="3128000" />
       <workItem from="1617047757496" duration="6384000" />
       <workItem from="1617698472129" duration="5708000" />
+      <workItem from="1617804286949" duration="2937000" />
     </task>
     <servers />
   </component>
