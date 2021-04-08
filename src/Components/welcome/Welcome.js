@@ -1,9 +1,7 @@
 import css from './Welcome.module.scss';
 import moi from '../../ressources/image/moi.png'
-import bt from '../../ressources/image/bt.svg'
 
 function Welcome() {
-
 
 
     return (
@@ -12,7 +10,8 @@ function Welcome() {
 
             <div className={css.content}>
 
-                <img src={moi} alt="dessin du portrait de Bréval Le Floch" className={css.avatar}/>
+                <img src={moi} alt="dessin du portrait de Bréval Le Floch" className={css.avatar} height="380"
+                     width="380"/>
 
                 <div className={css.text}>
                     <h1 className={css.title}>Bréval Le Floch</h1>

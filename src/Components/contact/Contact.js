@@ -17,7 +17,7 @@ function Contact() {
 
 
                     <div className={css.contactIcons}>
-                        <a className={css.github} href="https://github.com/LightIn-death" target="_blank">
+                        <a className={css.github} href="https://github.com/LightIn-death"  rel="noopener" target="_blank">
                             <svg width="148" height="149" viewBox="0 0 148 149"
                                  xmlns="http://www.w3.org/2000/svg">
                                 <title>Lien Github</title>
@@ -26,7 +26,7 @@ function Contact() {
                                    />
                             </svg>
                         </a>
-                        <a className={css.linkedin} href="https://www.linkedin.com/in/breval-lefloch/" target="_blank">
+                        <a className={css.linkedin} href="https://www.linkedin.com/in/breval-lefloch/"  rel="noopener" target="_blank">
                             <svg width="103" height="107" viewBox="0 0 103 107"
                                  xmlns="http://www.w3.org/2000/svg">
                                 <title>Lien Linkedin</title>
